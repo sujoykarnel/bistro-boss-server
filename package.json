@@ -5,7 +5,8 @@
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.7.0",
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "stripe": "^16.0.0"
   },
   "name": "bistro-boss-server",
   "version": "1.0.0",
